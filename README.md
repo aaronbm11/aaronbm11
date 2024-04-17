@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aaronbm11
+- 👀 I’m interested in web developing, frontend and backend technologies, and before everything learning new things.
+- 🌱 I’m currently learning Vue.js and Symfony with Doctrine ORM
+- 📫 You can contact with me via email aaronblazquezmartin24@gmail.com
